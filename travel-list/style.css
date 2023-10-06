@@ -1,0 +1,23 @@
+div {
+    background-color: lightcoral;
+}
+
+.top3 {
+    color: white;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+#top1 {
+    background-color: green;
+    border: 15px double red;
+    border-radius: 25px;
+}
+
+#landing-page {
+    height: 80vh;
+    width: 100%;
+    background-image: url("./img/travel.jpeg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
