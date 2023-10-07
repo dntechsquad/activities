@@ -1,0 +1,43 @@
+section {
+    border: 3px solid red;
+    text-align: center;
+}
+
+#text-info {
+    border: 3px solid blue;
+}
+
+#nest-video {
+    border: 3px solid green;
+}
+
+div {
+    display: inline-block;
+    width: 30%;
+    margin: 20px;
+}
+
+#nest-video img {
+    width: 100%;
+}
+
+
+
+
+
+/* body {
+    background-color: lightblue;
+}
+
+div {
+    border: 3px solid red;
+    width: 50%;
+    height: 100px;
+    padding: 20px;
+    margin: 30px;
+}
+
+#middle-box {
+    border: 3px solid blue;
+    padding: 50px;
+} */
